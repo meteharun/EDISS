@@ -1,0 +1,69 @@
+Case 0 (64x64x64):
+Naive time: 0.000999928 seconds
+Blocked time: 0.000999928 seconds
+Parallel time: 0.00200009 seconds
+Blocked speedup: 1x
+Parallel speedup: 0.49994x
+
+Case 1 (128x64x128):
+Naive time: 0.00399995 seconds
+Blocked time: 0.00400019 seconds
+Parallel time: 0.000999928 seconds
+Blocked speedup: 0.99994x
+Parallel speedup: 4.00024x
+
+Case 2 (100x128x56):
+Naive time: 0.00200009 seconds
+Blocked time: 0.00200009 seconds
+Parallel time: 0.000999928 seconds
+Blocked speedup: 1x
+Parallel speedup: 2.00024x
+
+Case 3 (128x64x128):
+Naive time: 0.00399995 seconds
+Blocked time: 0.00399995 seconds
+Parallel time: 0.00100017 seconds
+Blocked speedup: 1x
+Parallel speedup: 3.99928x
+
+Case 4 (32x128x32):
+Naive time: 0.00100017 seconds
+Blocked time: 0.00100017 seconds
+Parallel time: 0.000999928 seconds
+Blocked speedup: 1x
+Parallel speedup: 1.00024x
+
+Case 5 (200x100x256):
+Naive time: 0.017 seconds
+Blocked time: 0.0190001 seconds
+Parallel time: 0.00200009 seconds
+Blocked speedup: 0.894732x
+Parallel speedup: 8.49958x
+
+Case 6 (256x256x256):
+Naive time: 0.0500002 seconds
+Blocked time: 0.0579998 seconds
+Parallel time: 0.00600004 seconds
+Blocked speedup: 0.862074x
+Parallel speedup: 8.33331x
+
+Case 7 (256x300x256):
+Naive time: 0.059 seconds
+Blocked time: 0.0679998 seconds
+Parallel time: 0.00699997 seconds
+Blocked speedup: 0.867649x
+Parallel speedup: 8.42861x
+
+Case 8 (64x128x64):
+Naive time: 0.00200009 seconds
+Blocked time: 0.00200009 seconds
+Parallel time: 0.000999928 seconds
+Blocked speedup: 1x
+Parallel speedup: 2.00024x
+
+Case 9 (256x256x257):
+Naive time: 0.0509999 seconds
+Blocked time: 0.0940001 seconds
+Parallel time: 0.0079999 seconds
+Blocked speedup: 0.542551x
+Parallel speedup: 6.37507x

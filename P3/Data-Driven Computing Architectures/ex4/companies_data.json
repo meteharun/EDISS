@@ -1,0 +1,214 @@
+{
+    "companies": [
+        {
+            "company_id": "CMP_001",
+            "company_name": "Ford",
+            "company_type": "private",
+            "founding_year": 1903,
+            "headquarters": "United States"
+        },
+        {
+            "company_id": "CMP_002",
+            "company_name": "Dodge",
+            "company_type": "division",
+            "founding_year": 1900,
+            "headquarters": "US"
+        },
+        {
+            "company_id": "CMP_003",
+            "company_name": "Cadillac",
+            "company_type": "division",
+            "founding_year": 1902,
+            "headquarters": "United States"
+        },
+        {
+            "company_id": "CMP_004",
+            "company_name": "Toyota",
+            "company_type": "private",
+            "founding_year": 1937,
+            "headquarters": "Japan"
+        },
+        {
+            "company_id": "CMP_005",
+            "company_name": "Acura",
+            "company_type": "division",
+            "founding_year": 1986,
+            "headquarters": "United States"
+        },
+        {
+            "company_id": "CMP_006",
+            "company_name": "Mitsubishi",
+            "company_type": "private",
+            "founding_year": 1970,
+            "headquarters": "Japan"
+        },
+        {
+            "company_id": "CMP_007",
+            "company_name": "Chevrolet",
+            "company_type": "division",
+            "founding_year": 1911,
+            "headquarters": "United States"
+        },
+        {
+            "company_id": "CMP_008",
+            "company_name": "Nissan",
+            "company_type": "private",
+            "founding_year": 1933,
+            "headquarters": "Japan"
+        },
+        {
+            "company_id": "CMP_009",
+            "company_name": "Mercury",
+            "company_type": "division",
+            "founding_year": 1938,
+            "headquarters": "US"
+        },
+        {
+            "company_id": "CMP_010",
+            "company_name": "BMW",
+            "company_type": "private",
+            "founding_year": 1916,
+            "headquarters": "Germany"
+        },
+        {
+            "company_id": "CMP_011",
+            "company_name": "Chrysler",
+            "company_type": "division",
+            "founding_year": 1925,
+            "headquarters": "United States"
+        },
+        {
+            "company_id": "CMP_012",
+            "company_name": "Subaru",
+            "company_type": "private",
+            "founding_year": 1954,
+            "headquarters": "Japan"
+        },
+        {
+            "company_id": "CMP_013",
+            "company_name": "Hyundai",
+            "company_type": "private",
+            "founding_year": 1967,
+            "headquarters": "South Korea"
+        },
+        {
+            "company_id": "CMP_014",
+            "company_name": "Honda",
+            "company_type": "private",
+            "founding_year": 1948,
+            "headquarters": "Japan"
+        },
+        {
+            "company_id": "CMP_015",
+            "company_name": "Infiniti",
+            "company_type": "division",
+            "founding_year": 1989,
+            "headquarters": "United States"
+        },
+        {
+            "company_id": "CMP_016",
+            "company_name": "Audi",
+            "company_type": "division",
+            "founding_year": 1909,
+            "headquarters": "Germany"
+        },
+        {
+            "company_id": "CMP_017",
+            "company_name": "Porsche",
+            "company_type": "division",
+            "founding_year": 1931,
+            "headquarters": "Germany"
+        },
+        {
+            "company_id": "CMP_018",
+            "company_name": "Volkswagen",
+            "company_type": "private",
+            "founding_year": 1937,
+            "headquarters": "Germany"
+        },
+        {
+            "company_id": "CMP_019",
+            "company_name": "Buick",
+            "company_type": "division",
+            "founding_year": 1899,
+            "headquarters": "United States"
+        },
+        {
+            "company_id": "CMP_020",
+            "company_name": "Saturn",
+            "company_type": "division",
+            "founding_year": 1985,
+            "headquarters": "US"
+        },
+        {
+            "company_id": "CMP_021",
+            "company_name": "Mercedes-B",
+            "company_type": "private",
+            "founding_year": 1926,
+            "headquarters": "Germany"
+        },
+        {
+            "company_id": "CMP_022",
+            "company_name": "Jaguar",
+            "company_type": "division",
+            "founding_year": 1922,
+            "headquarters": "United Kingdom"
+        },
+        {
+            "company_id": "CMP_023",
+            "company_name": "Volvo",
+            "company_type": "private",
+            "founding_year": 1927,
+            "headquarters": "Sweden"
+        },
+        {
+            "company_id": "CMP_024",
+            "company_name": "Pontiac",
+            "company_type": "division",
+            "founding_year": 1926,
+            "headquarters": "United States"
+        },
+        {
+            "company_id": "CMP_025",
+            "company_name": "Lincoln",
+            "company_type": "division",
+            "founding_year": 1917,
+            "headquarters": "United States"
+        },
+        {
+            "company_id": "CMP_026",
+            "company_name": "Oldsmobile",
+            "company_type": "division",
+            "founding_year": 1897,
+            "headquarters": "US"
+        },
+        {
+            "company_id": "CMP_027",
+            "company_name": "Lexus",
+            "company_type": "division",
+            "founding_year": 1989,
+            "headquarters": "Japan"
+        },
+        {
+            "company_id": "CMP_028",
+            "company_name": "Plymouth",
+            "company_type": "division",
+            "founding_year": 1928,
+            "headquarters": "United States"
+        },
+        {
+            "company_id": "CMP_029",
+            "company_name": "Saab",
+            "company_type": "private",
+            "founding_year": 1947,
+            "headquarters": "Sweden"
+        },
+        {
+            "company_id": "CMP_030",
+            "company_name": "Jeep",
+            "company_type": "division",
+            "founding_year": 1941,
+            "headquarters": "US"
+        }
+    ]
+}

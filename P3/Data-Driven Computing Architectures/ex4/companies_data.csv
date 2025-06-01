@@ -1,0 +1,31 @@
+company_id,company_name,company_type,founding_year,headquarters
+CMP_001,Ford,private,1903,United States
+CMP_002,Dodge,division,1900,US
+CMP_003,Cadillac,division,1902,United States
+CMP_004,Toyota,private,1937,Japan
+CMP_005,Acura,division,1986,United States
+CMP_006,Mitsubishi,private,1970,Japan
+CMP_007,Chevrolet,division,1911,United States
+CMP_008,Nissan,private,1933,Japan
+CMP_009,Mercury,division,1938,US
+CMP_010,BMW,private,1916,Germany
+CMP_011,Chrysler,division,1925,United States
+CMP_012,Subaru,private,1954,Japan
+CMP_013,Hyundai,private,1967,South Korea
+CMP_014,Honda,private,1948,Japan
+CMP_015,Infiniti,division,1989,United States
+CMP_016,Audi,division,1909,Germany
+CMP_017,Porsche,division,1931,Germany
+CMP_018,Volkswagen,private,1937,Germany
+CMP_019,Buick,division,1899,United States
+CMP_020,Saturn,division,1985,US
+CMP_021,Mercedes-B,private,1926,Germany
+CMP_022,Jaguar,division,1922,United Kingdom
+CMP_023,Volvo,private,1927,Sweden
+CMP_024,Pontiac,division,1926,United States
+CMP_025,Lincoln,division,1917,United States
+CMP_026,Oldsmobile,division,1897,US
+CMP_027,Lexus,division,1989,Japan
+CMP_028,Plymouth,division,1928,United States
+CMP_029,Saab,private,1947,Sweden
+CMP_030,Jeep,division,1941,US
